@@ -1,0 +1,17 @@
+# Build & Temporary Files (these get generated automatically during build)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
